@@ -19,3 +19,5 @@ Notes:
 - The current sample data is artificial.
 - Results are only for testing the code.
 - Next step is to use the real feature table from the IoT/Windows paper project.
+
+Next, I want to replace the sample dataset with the real feature table from my IoT paper project.

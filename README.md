@@ -73,3 +73,5 @@ The sample CSV is only a small artificial dataset. It is here so the code can ru
 - add LightGBM experiment
 - save model comparison tables
 - write a short result summary in `docs/experiment-log.md`
+
+I use this repo to keep my early classification experiments organized before moving them into the main research pipeline.
